@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.2.0](https://github.com/binodnepali/react-nepali-datetime-picker/compare/v1.1.0...v1.2.0) (2024-06-19)
+
+
+### Features
+
+* my feat1 ([d9cfbcb](https://github.com/binodnepali/react-nepali-datetime-picker/commit/d9cfbcb203d584933758d347c59caf430afffb7b))
+* my feat2 ([0e6691f](https://github.com/binodnepali/react-nepali-datetime-picker/commit/0e6691ff05cca1ded68ae1870eb085da4f88876a))
+
+
+### Bug Fixes
+
+* my fix ([be1885b](https://github.com/binodnepali/react-nepali-datetime-picker/commit/be1885b3d172da26980c91464369359bc761f4c8))
+
 ## 1.1.0 (2024-06-19)
 
 
